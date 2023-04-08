@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: cloud_user
+    password: JcBw2ZkH7RLe62GR
+    url: jdbc:mysql://1.116.108.109:3306/cloud_user?characterEncoding = utf-8
